@@ -19,7 +19,7 @@ name: WebService-Scriptogram
 provides:
   WebService::Scriptogram:
     file: lib/WebService/Scriptogram.pm
-    version: v0.0.1
+    version: v0.0.2
 requires:
   Params::Validate: 0
   Readonly: 0
@@ -30,4 +30,4 @@ resources:
   homepage: https://github.com/hakamadare/webservice-scriptogram
   license: http://dev.perl.org/licenses/
   repository: git://github.com/hakamadare/webservice-scriptogram.git
-version: v0.0.1
+version: v0.0.2

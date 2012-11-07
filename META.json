@@ -39,7 +39,7 @@
    "provides" : {
       "WebService::Scriptogram" : {
          "file" : "lib/WebService/Scriptogram.pm",
-         "version" : "v0.0.1"
+         "version" : "v0.0.2"
       }
    },
    "release_status" : "stable",
@@ -55,5 +55,5 @@
          "url" : "git://github.com/hakamadare/webservice-scriptogram.git"
       }
    },
-   "version" : "v0.0.1"
+   "version" : "v0.0.2"
 }
